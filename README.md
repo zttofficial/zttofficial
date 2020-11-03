@@ -1,5 +1,13 @@
-### Hi there 👋
+### Welcome👋
+Majoring in Science in Computing at MPI 🇲🇴.   
 
+<br/>
+
+The founder of [MRSDGC](http://dialect.zttofficial.com/)(Macao Research Society of Dialect in Greater China).
+
+Dedicated to the preservation and transmission of the Szechwanese.
+
+Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/SzechwaneseCharacters), [SzechwaneseLexicon](https://github.com/zttofficial/SzechwaneseLexicon), [Szechwanese-input-method](https://github.com/zttofficial/Szechwanese-input-method)
 <!--
 **zttofficial/zttofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
