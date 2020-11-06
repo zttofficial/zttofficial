@@ -16,6 +16,8 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 <br/>
 
 📝 Of course, reading my [Blog](https://www.zttofficial.com/) is also a good idea!
-### Connect with me:
-[<img align="left" alt="Sabesan | Telegram" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/makisakai)
+### Contact Me📞:
 
+
+[<img align="left" alt="MakiSakai" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/makisakai)
+[<img align="left" alt="MakiSakai | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />](zttpublic@gmail.com)
