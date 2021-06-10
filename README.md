@@ -1,5 +1,5 @@
 ### Welcome👋
-🎓 Majoring in Science in Computing at MPI 🇲🇴.   
+🎓 BACHELOR OF SCIENCE IN COMPUTING at MPI 🇲🇴.   
 
 <br/>
 
