@@ -3,7 +3,7 @@
 
 <br/>
 
-⚡The founder of [MRSDGC](http://dialect.zttofficial.com/)(Macao Research Society of Dialect in Greater China).
+⚡ The founder of [MRSDGC](http://dialect.zttofficial.com/)(Macao Research Society of Dialect in Greater China).
 
 Dedicated to the preservation and transmission of the Szechwanese.
 
@@ -11,11 +11,15 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-🎨[UI/UX](https://www.behance.net/zttofficial) Portfolio with an art novice. 
+🎨 [UI/UX](https://www.behance.net/zttofficial) Portfolio with an art novice. 
 
 <br/>
 
 📚 A amateur Wikipedian. Learn more about [Me](https://zh.wikipedia.org/wiki/User:Harold_Lee) from this perspective.
+
+<br/>
+
+📖 Part-time Translator. Translated Book are available on [Amazon](https://www.amazon.com/dp/B09XFJ3J3M).
 
 <br/>
 
