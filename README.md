@@ -1,5 +1,5 @@
 ### Welcome👋
-🎓 BACHELOR OF SCIENCE IN COMPUTING at MPI 🇲🇴.   
+🎓 BACHELOR OF SCIENCE IN COMPUTING at MPU 🇲🇴.   
 
 <br/>
 
