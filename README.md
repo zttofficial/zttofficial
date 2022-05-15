@@ -1,5 +1,6 @@
 ### Welcome👋
-🎓 MASTER's Candidate
+🎓 MASTER's Candidate at UofG 🇨🇦.
+
 BACHELOR OF SCIENCE IN COMPUTING at MPU 🇲🇴.   
 
 <br/>
