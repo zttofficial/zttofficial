@@ -1,5 +1,6 @@
 ### Welcome👋
-🎓 BACHELOR OF SCIENCE IN COMPUTING at MPU 🇲🇴.   
+🎓 MASTER's Candidate
+BACHELOR OF SCIENCE IN COMPUTING at MPU 🇲🇴.   
 
 <br/>
 
