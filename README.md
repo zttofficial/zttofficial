@@ -21,7 +21,7 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-📖 Part-time Translator. Translated Books are available on [Amazon](https://www.amazon.com/dp/B09XFJ3J3M).
+📖 Part-time Translator. Translated Books are available on [Amazon](https://www.amazon.com/dp/B09XFJ3J3M). Working as Traditional Chinese Translation Consultant for @Telegram.
 
 <br/>
 
