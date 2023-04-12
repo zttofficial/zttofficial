@@ -29,5 +29,6 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 ### Contact Me📞:
 
 
+[<img align="left" alt="MakiSakai" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/zttofficial)
 [<img align="left" alt="MakiSakai" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/makisakai)
-[<img align="left" alt="MakiSakai | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />](mailto:zttpublic@gmail.com)
+[<img align="left" alt="MakiSakai | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />](mailto:contact@zttofficial.com)
