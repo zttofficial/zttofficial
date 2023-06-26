@@ -5,7 +5,7 @@ BACHELOR OF SCIENCE IN COMPUTING at MPU 🇲🇴.
 
 <br/>
 
-⚡ The founder of [MRSDGC](http://dialect.zttofficial.com/)(Macao Research Society of Dialect in Greater China).
+⚡ The founder of [MRSDGC ](http://dialect.zttofficial.com/)(Macao Research Society of Dialect in Greater China).
 
 Dedicated to the preservation and transmission of the Szechwanese.
 
