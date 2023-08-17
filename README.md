@@ -1,5 +1,5 @@
 ### Welcome👋
-🎓 MASTER's Candidate at UofG 🇨🇦.
+🎓 MASTER OF CYBERSECURITY at UofG 🇨🇦.
 
 BACHELOR OF SCIENCE IN COMPUTING at MPU 🇲🇴.   
 
