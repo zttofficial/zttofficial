@@ -21,11 +21,11 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-📖 Part-time Translator. Translated Books are available on [Amazon](https://www.amazon.com/dp/B09XFJ3J3M). Working as Traditional Chinese Translation Consultant for @Telegram.
+📖 Part-time Translator. Translated Books are available on [Amazon](https://www.amazon.com/dp/B09XFJ3J3M). Working as Traditional Chinese Translation Consultant for [@Telegram](https://github.com/TelegramMessenger).
 
 <br/>
 
-📝 Of course, reading my [Blog](https://www.zttofficial.com/) is also a good idea!
+📝 Last but not least, reading my [Blog](https://www.zttofficial.com/) is a perfect idea as well!
 ### Contact Me📞:
 
 
