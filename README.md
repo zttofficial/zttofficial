@@ -13,7 +13,7 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-🎨 AI Artist @[Hanyun Studio](https://art.zttofficial.com/). [UI/UX](https://www.behance.net/zttofficial) Portfolio with an art novice. 
+🎨 AI Artist & Prompt Engineer @[Hanyun Studio](https://art.zttofficial.com/). [UI/UX](https://www.behance.net/zttofficial) Portfolio with an art novice. 
 
 <br/>
 
