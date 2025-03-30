@@ -6,8 +6,7 @@ MASTER OF CYBERSECURITY at UoG 🇨🇦
 BACHELOR OF SCIENCE IN COMPUTING at MPU 🇲🇴
 
 <br/>
-
-⚡ The founder of [MRSDGC ](http://dialect.zttofficial.com/)(Macao Research Society of Dialect in Greater China).
+⚡ The founder of [@MRSDGC](https://dialect.zttofficial.com/) (Macao Research Society of Dialect in Greater China).
 
 Dedicated to the preservation and transmission of the Szechwanese.
 
@@ -15,7 +14,11 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-🎨 AI Artist & Prompt Engineer @[Hanyun Studio](https://art.zttofficial.com/). [UI/UX](https://www.behance.net/zttofficial) Portfolio with an art novice. 
+💰 Web3 Developer, Tokenomist and Inverstor. Founder [@Djade](https://djade.zttofficial.com/), a decentralized platform for tokenizing jade assets on the blockchain.
+
+<br/>
+
+🎨 AI Artist & Prompt Engineer [@Hanyun Studio](https://art.zttofficial.com/). [UI/UX](https://www.behance.net/zttofficial) Portfolio with an art novice. 
 
 <br/>
 
