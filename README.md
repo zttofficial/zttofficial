@@ -27,7 +27,7 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-📖 Freelance Translator. Translated Books are available on [Amazon](https://www.amazon.com/dp/B09XFJ3J3M). Working as Traditional Chinese Translation Consultant for [@Telegram](https://github.com/TelegramMessenger).
+📖 Freelance Translator. Translated Books are available on [Amazon](https://www.amazon.ca/stores/Hangjun-Li/author/B0FF36L474). Working as Traditional Chinese Translation Consultant for [@Telegram](https://github.com/TelegramMessenger).
 
 <br/>
 
