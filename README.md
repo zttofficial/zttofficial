@@ -1,6 +1,8 @@
 ### Welcome👋
 🏢 Frontend Engineer @ Bybit
 
+<br/>
+
 🎓 DOCTOR OF PHILOSOPHY at USM 🇲🇽
 
 MASTER OF CYBERSECURITY at UoG 🇨🇦
