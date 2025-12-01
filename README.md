@@ -3,15 +3,15 @@
 
 <br/>
 
-🎓 DOCTOR OF PHILOSOPHY at USM 🇲🇽
+🎓 DOCTOR OF PHILOSOPHY @ USM 🇲🇽
 
-MASTER OF CYBERSECURITY at UoG 🇨🇦
+MASTER OF CYBERSECURITY @ UoG 🇨🇦
 
-BACHELOR OF SCIENCE IN COMPUTING at MPU 🇲🇴
+BACHELOR OF SCIENCE IN COMPUTING @ MPU 🇲🇴
 
 <br/>
 
-⚡ Co-Founder and Chair [@MRSDGC](https://dialect.zttofficial.com/) (Macao Research Society of Dialect in Greater China).
+⚡ Co-Founder and Chair [@ MRSDGC](https://dialect.zttofficial.com/) (Macao Research Society of Dialect in Greater China).
 
 Dedicated to the preservation and transmission of the Szechwanese.
 
