@@ -1,4 +1,6 @@
 ### Welcome👋
+🏢 Frontend Engineer @ Bybit
+
 🎓 DOCTOR OF PHILOSOPHY at USM 🇲🇽
 
 MASTER OF CYBERSECURITY at UoG 🇨🇦
@@ -15,11 +17,11 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-💰 Web3 Developer, Tokenomist and Crypto Investor. Founder [@Djade](https://djade.zttofficial.com/), a decentralized platform for tokenizing jade assets on the blockchain.
+💰 Web3 Developer, Tokenomist and Crypto Investor. Founder [@ Djade](https://djade.zttofficial.com/), a decentralized platform for tokenizing jade assets on the blockchain.
 
 <br/>
 
-🎨 AI Artist & Prompt Engineer [@Hanyun Studio](https://art.zttofficial.com/). [UI/UX](https://www.behance.net/zttofficial) Portfolio with an art novice. 
+🎨 AI Artist & Prompt Engineer [@ Hanyun Studio](https://art.zttofficial.com/). [UI/UX](https://www.behance.net/zttofficial) Portfolio with an art novice. 
 
 <br/>
 
@@ -27,7 +29,7 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-📖 Freelance Translator. Translated Books are available on [Amazon](https://www.amazon.ca/stores/Hangjun-Li/author/B0FF36L474). Working as Traditional Chinese Translation Consultant for [@Telegram](https://github.com/TelegramMessenger).
+📖 Freelance Translator. Translated Books are available on [Amazon](https://www.amazon.ca/stores/Hangjun-Li/author/B0FF36L474). Working as Traditional Chinese Translation Consultant for [@ Telegram](https://github.com/TelegramMessenger).
 
 <br/>
 
