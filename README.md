@@ -1,5 +1,5 @@
 ### Welcome👋
-🏢 Frontend Engineer @ Bybit
+🏢 Software Engineer (Frontend) @ Bybit
 
 <br/>
 
@@ -11,7 +11,7 @@ BACHELOR OF SCIENCE IN COMPUTING @ MPU 🇲🇴
 
 <br/>
 
-⚡ Co-Founder and Chair [@ MRSDGC](https://dialect.zttofficial.com/) (Macao Research Society of Dialect in Greater China).
+⚡ Co-Founder and Chair @ [MRSDGC](https://dialect.zttofficial.com/) (Macao Research Society of Dialect in Greater China).
 
 Dedicated to the preservation and transmission of the Szechwanese.
 
@@ -19,11 +19,11 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-💰 Web3 Developer, Tokenomist and Crypto Investor. Founder [@ Djade](https://djade.zttofficial.com/), a decentralized platform for tokenizing jade assets on the blockchain.
+💰 Web3 Developer, Tokenomist and Crypto Investor. Founder @ [Djade](https://djade.zttofficial.com/), a decentralized platform for tokenizing jade assets on the blockchain.
 
 <br/>
 
-🎨 AI Artist & Prompt Engineer [@ Hanyun Studio](https://art.zttofficial.com/). [UI/UX](https://www.behance.net/zttofficial) Portfolio with an art novice. 
+🎨 AI Artist & Prompt Engineer @ [Hanyun Studio](https://art.zttofficial.com/). [UI/UX](https://www.behance.net/zttofficial) Portfolio with an art novice. 
 
 <br/>
 
@@ -31,7 +31,7 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-📖 Freelance Translator. Translated Books are available on [Amazon](https://www.amazon.ca/stores/Hangjun-Li/author/B0FF36L474). Working as Traditional Chinese Translation Consultant for [@ Telegram](https://github.com/TelegramMessenger).
+📖 Freelance Translator. Translated Books are available on [Amazon](https://www.amazon.ca/stores/Hangjun-Li/author/B0FF36L474). Working as Traditional Chinese Translation Consultant for @ [Telegram](https://github.com/TelegramMessenger).
 
 <br/>
 
