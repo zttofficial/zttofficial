@@ -19,7 +19,7 @@ Related Repo: [SzechwaneseCharacters](https://github.com/zttofficial/Szechwanese
 
 <br/>
 
-💰 Web3 Developer, Tokenomist and Crypto Investor. Founder @ [Djade](https://djade.zttofficial.com/), a decentralized platform for tokenizing jade assets on the blockchain.
+💰 Web3 Developer, Tokenomist and Crypto Investor. Founder @ [Idolca](https://idolca.trade/), a global marketplace for K-pop photocards on Solana.
 
 <br/>
 
