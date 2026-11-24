@@ -1,5 +1,5 @@
 ### Welcome👋
-🏢 Software Engineer (Frontend) @ Bybit
+🏢 Software Engineer (Frontend) @ Binance 🇺🇸 | ex-Bybit
 
 <br/>
 
